@@ -5,7 +5,7 @@ I'm Amalia, a passionate and curious student exploring the world of Software Eng
 ## 📚 Education
 
 - **University of Michigan-Dearborn**, Software Engineering, 2025
-- Relevant Coursework: [Course 1, Course 2, Course 3]
+- Relevant Coursework: [Computer Science I, Computer Science II, Discrete Structures I, Discrete Structures II, Software Engineering Tools, Compuret Organization and Assembly Language, Data Structure and Algorithm Analysis, Software Engineering I, Software Engineering II, Computer Network and Dis Processor, Operating System, Software Architecture and Design Patterns, Intro to Python, Intro to Java]
 
 ## 💻 Skills
 
@@ -32,7 +32,7 @@ I'm Amalia, a passionate and curious student exploring the world of Software Eng
 
 4. **Personal Portfolio Website**
    - Description: Designed and developed my personal website to showcase projects and resume.
-   - GitHub: [Personal Portfolio]
+   - GitHub: [Personal Portfolio] Currently under development 
 
 ## 🌱 Currently Learning
 
