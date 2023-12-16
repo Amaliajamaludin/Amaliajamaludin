@@ -27,7 +27,7 @@ I'm Amalia, a passionate and curious student exploring the world of Software Eng
 
 3. **TCP Implementation**
    - Description: Developed a TCP connection for localhost using IP and Port.
-   - GitHub: [MQTT Implementation](https://github.com/Amaliajamaludin/TCPUDP)
+   - GitHub: [TCP Connection Implementation](https://github.com/Amaliajamaludin/TCPUDP)
    - 
 
 4. **Personal Portfolio Website**
