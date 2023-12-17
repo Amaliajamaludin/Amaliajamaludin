@@ -17,7 +17,7 @@ I'm Amalia, a passionate and curious student exploring the world of Software Eng
 
 ## 🚀 Projects
 
-1. **Online Bookstore App**
+1. **Web Accesibility Checklist Website**
    - Description: Developed a web application for ensure that websites, are designed and developed with accessibility as a core objective.
    - GitHub: [Web Accessibility Checklist](https://github.com/Amaliajamaludin/CIS375-FinalProject)
 
