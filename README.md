@@ -40,9 +40,9 @@ I'm currently exploring Web Technologies to enhance my skills in AI/UX design.
 
 ## 📫 Contact Me
 
-- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/amaliajamaludin)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/amaliajamaludin)
 - Email: [Default Email Address](mailto:amaliajamaludin@gmail.com)
-- Email: [School Email Address](mailto:namaliaj@umich.edu)
+- School Email: [School Email Address](mailto:namaliaj@umich.edu)
 
 ## 🤝 Let's Connect!
 
