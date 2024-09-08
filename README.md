@@ -32,7 +32,7 @@ I'm Amalia, a passionate and curious student exploring the world of Software Eng
 
 4. **Personal Portfolio Website**
    - Description: Designed and developed my personal website to showcase projects and resume.
-   - GitHub: [Personal Portfolio] Currently under development 
+   - GitHub: [Personal Portfolio](https://github.com/Amaliajamaludin/portfolio)
 
 ## 🌱 Currently Learning
 
