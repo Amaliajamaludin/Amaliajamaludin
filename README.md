@@ -1,6 +1,6 @@
 ### Hi there! 👋  
 
-I'm **Amalia**, a passionate and curious student exploring the world of **Software Engineering** and **Economics** at the **University of Michigan-Dearborn**. I aspire to build a career in **Data Science**, **Data Engineering**, or **Data Analysis**, specializing in **economic development** and **finance & investment analysis**.  
+I'm **Amalia**, a passionate and curious student exploring the world of **Software Engineering** and **Economics** at the **University of Michigan-Dearborn**. I aspire to build a career in **Data Science**, **Data Engineering**, or **Data Analysis**, specializing in **economic development** and **investment analysis**.  
 
 ## 📚 Education  
 
