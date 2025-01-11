@@ -1,54 +1,59 @@
-### Hi there! 👋
+### Hi there! 👋  
 
-I'm Amalia, a passionate and curious student exploring the world of Software Engineering at University of Michigan-Dearborn. 
+I'm **Amalia**, a passionate and curious student exploring the world of **Software Engineering** and **Economics** at the **University of Michigan-Dearborn**. I aspire to build a career in **Data Science**, **Data Engineering**, or **Data Analysis**, specializing in **economic development** and **finance & investment analysis**.  
 
-## 📚 Education
+## 📚 Education  
 
-- **University of Michigan-Dearborn**, Software Engineering, 2025
-- Relevant Coursework: [Computer Science I, Computer Science II, Discrete Structures I, Discrete Structures II, Software Engineering Tools, Compuret Organization and Assembly Language, Data Structure and Algorithm Analysis, Software Engineering I, Software Engineering II, Computer Network and Dis Processor, Operating System, Software Architecture and Design Patterns, Intro to Python, Intro to Java]
+- **University of Michigan-Dearborn**, Software Engineering, 2025  
+- **Software Engineering Coursework:**  
+  [Computer Science I, Computer Science II, Discrete Structures I, Discrete Structures II, Software Engineering Tools, Computer Organization and Assembly Language, Data Structure and Algorithm Analysis, Software Engineering I, Software Engineering II, Computer Networks and Distributed Systems, Operating Systems, Software Architecture and Design Patterns, Intro to Python, Intro to Java]  
+- **Economics Coursework:**  
+  [Macroeconomics, Microeconomics, Intermediate Macroeconomics, Intermediate Microeconomics, Monetary Policy, Economic Statistics, Economic Development, Economic Poverty and Discrimination, Econometrics]  
 
-## 💻 Skills
+## 💻 Skills  
 
-- **Programming Languages:** C++, Java, Python, JavaScript
-- **Web Technologies:** HTML, CSS
-- **Database:** MySQL, phpMyAdmin
-- **Tools:** Git, Visual Studio Code, Visual Studio, Eclipse, Atom
-- **Soft Skills:** Team Collaboration, Problem Solving, Communication
+- **Programming Languages:** C++, Java, Python, JavaScript  
+- **Web Technologies:** HTML, CSS, React, Node.js  
+- **Database:** MySQL, phpMyAdmin, MongoDB  
+- **Data Analysis & Visualization Tools:** Power BI, pandas, NumPy, Matplotlib, Seaborn, Stata  
+- **Tools & IDEs:** Git, Visual Studio Code, Visual Studio, Eclipse, Atom, Figma, Jira, ChatGPT  
+- **Soft Skills:** Team Collaboration, Problem Solving, Communication, Project Management, Agile 7 Scrum Methodologies 
 
-## 🚀 Projects
+## 🚀 Projects  
 
-1. **Web Accesibility Checklist Website**
-   - Description: Developed a web application for ensure that websites, are designed and developed with accessibility as a core objective.
-   - GitHub: [Web Accessibility Checklist](https://github.com/Amaliajamaludin/CIS375-FinalProject)
+**South Asian Dictionary**  
+- Led the development of a website to teach South Asian languages in collaboration with professors.  
+- **Tools:** MERN Stack, Google OAuth, Shibboleth, MiDatabase, Excel.  
 
-2. **MQTT Home Automation System**
-   - Description: Developed a home automation system using MQTT for efficient communication between smart devices.
-   - GitHub: [MQTT Implementation](https://github.com/Amaliajamaludin/MQTT)
+**CityWatch**  
+- Developed a platform for users to report local incidents with real-time updates.  
+- **Tools:** HTML, CSS, JavaScript, MySQL, React, Google Maps API.  
 
-3. **TCP Implementation**
-   - Description: Developed a TCP connection for localhost using IP and Port.
-   - GitHub: [TCP Connection Implementation](https://github.com/Amaliajamaludin/TCPUDP)
-   - 
+**Weather Plotting Patterns**  
+- Visualized weather trends from 2005–2015 using Python and data visualization libraries.  
+- **Tools:** Python, pandas, matplotlib, NumPy.  
 
-4. **Personal Portfolio Website**
-   - Description: Designed and developed my personal website to showcase projects and resume.
-   - GitHub: [Personal Portfolio](https://github.com/Amaliajamaludin/portfolio)
+**Data Profession Survey 2022 (Power BI)**  
+- Analyzed survey data to extract insights into trends and preferences in the data profession.  
+- Built interactive dashboards using **Power BI** to visualize key metrics like job roles, salaries, and industry trends.  
+- Enhanced decision-making by presenting actionable insights through clear and intuitive visualizations.  
+- **Tools:** Power BI  
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning  
 
-I'm currently exploring Web Technologies to enhance my skills in AI/UX design.
+I'm currently exploring **Web Technologies** to enhance my skills in **data management, analysis, and visualization**.  
 
-## 📫 Contact Me
+## 📫 Contact Me  
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/amaliajamaludin)
-- Email: [Default Email Address](mailto:amaliajamaludin@gmail.com)
-- School Email: [School Email Address](mailto:namaliaj@umich.edu)
+- **LinkedIn:** [Amalia Jamaludin](https://www.linkedin.com/in/amaliajamaludin)  
+- **Email:** [amaliajamaludin@gmail.com](mailto:amaliajamaludin@gmail.com)  
+- **School Email:** [namaliaj@umich.edu](mailto:namaliaj@umich.edu)  
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect!  
 
-Feel free to reach out if you share similar interests or if you have any exciting projects in mind. Let's connect and learn together!
+Feel free to reach out if you share similar interests or have exciting projects to collaborate on. Let's grow and innovate together!  
 
-[![GitHub Followers](https://img.shields.io/github/followers/Amaliajamaludin?label=Follow&style=social)](https://github.com/Amaliajamaludin)
+[![GitHub Followers](https://img.shields.io/github/followers/Amaliajamaludin?label=Follow&style=social)](https://github.com/Amaliajamaludin)  
 
 
 
