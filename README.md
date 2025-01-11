@@ -34,10 +34,9 @@ I'm **Amalia**, a passionate and curious student exploring the world of **Softwa
 - **Tools:** Python, pandas, matplotlib, NumPy.  
 
 **Data Profession Survey 2022 (Power BI)**  
-- Analyzed survey data to extract insights into trends and preferences in the data profession.  
-- Built interactive dashboards using **Power BI** to visualize key metrics like job roles, salaries, and industry trends.  
+- Analyzed survey data to extract insights into trends and preferences in the data profession.   
 - Enhanced decision-making by presenting actionable insights through clear and intuitive visualizations.  
-- **Tools:** Power BI  
+- **Tools:** Power BI, Excel
 
 ## 🌱 Currently Learning  
 
