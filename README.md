@@ -6,9 +6,9 @@ I'm **Amalia**, a passionate and curious student exploring the world of **Softwa
 
 - **University of Michigan-Dearborn**, Software Engineering, 2025  
 - **Software Engineering Coursework:**  
-  [Computer Science I, Computer Science II, Discrete Structures I, Discrete Structures II, Software Engineering Tools, Computer Organization and Assembly Language, Data Structure and Algorithm Analysis, Software Engineering I, Software Engineering II, Computer Networks and Distributed Systems, Operating Systems, Software Architecture and Design Patterns, Intro to Python, Intro to Java]  
+  Computer Science I & II, Discrete Structures I & II, Software Engineering Tools, Computer Organization and Assembly Language, Data Structure and Algorithm Analysis, Software Engineering I and II, Computer Networks and Distributed Systems, Operating Systems, Software Architecture and Design Patterns, Intro to Python, Web Development, Information System, Database Management System, Senior Design I and II
 - **Economics Coursework:**  
-  [Macroeconomics, Microeconomics, Intermediate Macroeconomics, Intermediate Microeconomics, Monetary Policy, Economic Statistics, Economic Development, Economic Poverty and Discrimination, Econometrics]  
+  Macroeconomics, Microeconomics, Intermediate Macroeconomics, Intermediate Microeconomics, Monetary Policy, Economic Statistics, Economic Development, Economic Poverty and Discrimination, Econometrics  
 
 ## 💻 Skills  
 
@@ -16,8 +16,8 @@ I'm **Amalia**, a passionate and curious student exploring the world of **Softwa
 - **Web Technologies:** HTML, CSS, React, Node.js  
 - **Database:** MySQL, phpMyAdmin, MongoDB  
 - **Data Analysis & Visualization Tools:** Power BI, pandas, NumPy, Matplotlib, Seaborn, Stata  
-- **Tools & IDEs:** Git, Visual Studio Code, Visual Studio, Eclipse, Atom, Figma, Jira, ChatGPT  
-- **Soft Skills:** Team Collaboration, Problem Solving, Communication, Project Management, Agile 7 Scrum Methodologies 
+- **Tools & IDEs:** GitHub, Visual Studio Code, Visual Studio, Eclipse, Atom, Figma, Jira, ChatGPT, Google Suites, Microsoft Office 
+- **Soft Skills:** Team Collaboration, Problem Solving, Communication, Project Management, Agile & Scrum Methodologies 
 
 ## 🚀 Projects  
 
@@ -40,7 +40,7 @@ I'm **Amalia**, a passionate and curious student exploring the world of **Softwa
 
 ## 🌱 Currently Learning  
 
-I'm currently exploring **Web Technologies** to enhance my skills in **data management, analysis, and visualization**.  
+I'm currently exploring **Web Technologies** and enhancing my skills in **data management, analysis, and visualization**.  
 
 ## 📫 Contact Me  
 
